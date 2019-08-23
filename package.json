@@ -1,0 +1,19 @@
+{
+  "name": "animate.wxss",
+  "version": "3.7.5",
+  "description": "animate.css in wechat",
+  "main": "animate.min.wxss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animate.wxss",
+    "animate.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joenix/animate.wxss.git"
+  },
+  "author": "joenix",
+  "license": "MIT"
+}
